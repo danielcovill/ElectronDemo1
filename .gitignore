@@ -5,7 +5,7 @@ Thumbs.db
 .project
 .svn
 .nvm-version
-.map
+*.map
 node_modules
 npm-debug.log
 debug.log
